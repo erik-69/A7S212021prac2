@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">A7S212021prac2</string>
+    <string name="tituloinicio">Titulo de la aplicacion</string>
+    <string name="tituloprincipal">Menu De Opciones</string>
+    <string name="btnpSuma">Sumar Numeros</string>
+    <string name="titulosumar">Sumar 2 Numeros</string>
+    <string name="etiquetanum1">Ingrese el primer valor</string>
+    <string name="etiquetanum2">Ingrese el segundo valor</string>
+    <string name="btncalcular">Calcular Resultado</string>
+    <string name="btnpResta">Restar Numeros</string>
+    <string name="TituloRestar">Restar 2 Numeros</string>
+    <string name="titulodividir">Dividir 2 Numeros</string>
+    <string name="btnpDividir">Dividir Numeros</string>
+    <string name="titulomultiplicar">Multiplica 2 Numeros</string>
+    <string name="btnpMultiplicar">Multiplicar Numeros</string>
+    <string name="titulocuadrado">El cuadrado de un numero:</string>
+    <string name="btnpCuadrado" />
+    <string name="btnpCuadrado1">Numero Cuadrado</string>
+</resources>
